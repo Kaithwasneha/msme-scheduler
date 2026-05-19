@@ -143,7 +143,5 @@ vite.config.ts.timestamp-*
 .vite/
 
 # Dependencies and generated output
-package.json
-node_modules/
 benchmark_results.json
 

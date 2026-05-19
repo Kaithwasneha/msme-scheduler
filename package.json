@@ -1,0 +1,12 @@
+{
+  "name": "msme-pipeline-scheduler",
+  "version": "1.0.0",
+  "description": "ScoreMe MSME Credit Pipeline Scheduling — PWDR Algorithm",
+  "main": "run.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "benchmark": "node benchmark.js",
+    "start": "node run.js"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
